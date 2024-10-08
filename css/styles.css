@@ -109,7 +109,9 @@ background: #2e2f42;
 
 /* Our Team */
 
-
+.our-team-item {
+    background-color: #fff;
+}
 .page-our-team {
     background: #f4f4fd;
 }
@@ -121,6 +123,7 @@ background: #2e2f42;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize
 }
 
 .our-team-subtittle {
